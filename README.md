@@ -73,10 +73,10 @@ M = C + I
 ##  Auteur
 
 **Ouji Chaima**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [on-plainstaffs-hub](https://github.com/on-plainstaffs-hub)
+
 
 ---
-
+![Star](https://img.shields.io/github/stars/on-plainstaffs-hub/simulation-agazine-interact?style=social) ![Fork](https://img.shields.io/github/forks/on-plainstaffs-hub/simulation-agazine-interact?style=social)
 <div align="center">
 
 
