@@ -9,39 +9,37 @@
 
 **Application web interactive pour simuler l'évolution d'un compte d'épargne**
 
-[🚀 Visiter le site](https://on-plainstaffs-hub.github.io/simulation-agazine-interact/) • [📁 Code source](https://github.com/on-plainstaffs-hub/simulation-agazine-interact)
+[ Visiter le site](https://on-plainstaffs-hub.github.io/simulation-agazine-interact/) • [ Code source](https://github.com/on-plainstaffs-hub/simulation-agazine-interact)
 
 </div>
 
 
-## 📊 Description
+##  Description
 Application web interactive pour calculer et visualiser les intérêts simples d'un placement financier.
 
-## 🚀 Démo en ligne
+##  Démo en ligne
 **[Cliquez ici pour utiliser le simulateur](VOTRE-URL-GITHUB-PAGES)**
 
-## ✨ Fonctionnalités
-- 🔢 Calcul d'intérêts simples
-- 📈 Graphiques interactifs
-- 📋 Tableau d'amortissement
-- ⚖️ Comparaison intérêts simples vs composés
-- 📱 Interface responsive
+##  Fonctionnalités
+-  Calcul d'intérêts simples
+-  Graphiques interactifs
+-  Tableau d'amortissement
+-  Comparaison intérêts simples vs composés
+-  Interface responsive
 
-## 🛠️ Technologies
+##  Technologies
 - HTML5
 - CSS3
 - JavaScript
 - Chart.js
 - GitHub Pages
 
-## 📁 Utilisation
+##  Utilisation
 1. Ouvrez `index.html` dans un navigateur
 2. Ajustez les paramètres (capital, taux, durée)
 3. Cliquez sur "Calculer"
 4. Explorez les résultats
 
-## 👤 Auteur
-Votre Nom
+##  Auteur
+Ouji Chaima
 
-## 📄 Licence
-MIT
