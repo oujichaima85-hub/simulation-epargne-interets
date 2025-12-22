@@ -10,43 +10,43 @@
 
 **Application web interactive pour simuler l'évolution d'un compte d'épargne**
 
-[ Visiter le site](https://on-plainstaffs-hub.github.io/simulation-agazine-interact/) • [ Code source](https://github.com/on-plainstaffs-hub/simulation-agazine-interact)
+[🚀 Visiter le site](https://on-plainstaffs-hub.github.io/simulation-agazine-interact/) • [📁 Code source](https://github.com/on-plainstaffs-hub/simulation-agazine-interact)
 
 </div>
 
 ---
 
-##  Table des matières
-- [ Fonctionnalités](#-fonctionnalités)
-- [ Comment utiliser](#-comment-utiliser)
-- [ Formules](#-formules)
-- [ Structure](#-structure)
-- [ Auteur](#-OUJI CHAIMA)
+## 📋 Table des matières
+- [✨ Fonctionnalités](#-fonctionnalités)
+- [🎮 Comment utiliser](#-comment-utiliser)
+- [🧮 Formules](#-formules)
+- [📁 Structure](#-structure)
+- [👤 Auteur](#-auteur)
 
 ---
 
-##  Fonctionnalités
+## ✨ Fonctionnalités
 
-###  Paramètres ajustables
+### 🎛️ Paramètres ajustables
 - **Capital initial** : 100€ à 100 000€
 - **Taux d'intérêt** : 0,1% à 10%
 - **Durée** : 1 à 30 ans
 - **Fréquence** : Annuelle, trimestrielle, mensuelle
 
-###  Visualisations
+### 📈 Visualisations
 - Graphique d'évolution (Chart.js)
 - Tableau d'amortissement
 - Comparaison intérêts simples vs composés
 - Cartes de résultats
 
-###  Interface
+### 🎨 Interface
 - Design responsive
 - Thème bleu moderne
 - Calcul en temps réel
 
 ---
 
-##  Comment utiliser
+## 🎮 Comment utiliser
 
 1. **Ajustez les paramètres** avec les sliders
 2. **Observez les résultats** mis à jour automatiquement
@@ -57,6 +57,6 @@
 
 ---
 
-##  Formules
+## 🧮 Formules
 
 ### Intérêts simples
