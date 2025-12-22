@@ -1,4 +1,5 @@
-# 🏦 Simulateur de Compte d'Épargne
+# 🏦 Simulation Compte d'Épargne - Calculateur d'Intérêts Simples
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,39 +10,53 @@
 
 **Application web interactive pour simuler l'évolution d'un compte d'épargne**
 
-[🚀 Visiter le site](https://on-plainstaffs-hub.github.io/simulation-agazine-interact/) • [ Code source](https://github.com/on-plainstaffs-hub/simulation-agazine-interact)
+[ Visiter le site](https://on-plainstaffs-hub.github.io/simulation-agazine-interact/) • [ Code source](https://github.com/on-plainstaffs-hub/simulation-agazine-interact)
 
 </div>
 
 ---
-##  Démo en ligne
-**[Cliquez ici pour utiliser le simulateur] (https://[oujichaima].github.io/simulation-epargne-interets]/)**
 
-##  Description
-Application web interactive pour calculer et visualiser les intérêts simples d'un placement financier.
+##  Table des matières
+- [ Fonctionnalités](#-fonctionnalités)
+- [ Comment utiliser](#-comment-utiliser)
+- [ Formules](#-formules)
+- [ Structure](#-structure)
+- [ Auteur](#-OUJI CHAIMA)
 
-
+---
 
 ##  Fonctionnalités
--  Calcul d'intérêts simples
--  Graphiques interactifs
--  Tableau d'amortissement
--  Comparaison intérêts simples vs composés
--  Interface responsive
 
-##  Technologies
-- HTML5
-- CSS3
-- JavaScript
-- Chart.js
-- GitHub Pages
+###  Paramètres ajustables
+- **Capital initial** : 100€ à 100 000€
+- **Taux d'intérêt** : 0,1% à 10%
+- **Durée** : 1 à 30 ans
+- **Fréquence** : Annuelle, trimestrielle, mensuelle
 
-##  Utilisation
-1. Ouvrez `index.html` dans un navigateur
-2. Ajustez les paramètres (capital, taux, durée)
-3. Cliquez sur "Calculer"
-4. Explorez les résultats
+###  Visualisations
+- Graphique d'évolution (Chart.js)
+- Tableau d'amortissement
+- Comparaison intérêts simples vs composés
+- Cartes de résultats
 
-##  Auteur
-Ouji Chaima
+###  Interface
+- Design responsive
+- Thème bleu moderne
+- Calcul en temps réel
 
+---
+
+##  Comment utiliser
+
+1. **Ajustez les paramètres** avec les sliders
+2. **Observez les résultats** mis à jour automatiquement
+3. **Explorez les onglets** :
+   - Tableau d'amortissement
+   - Comparaison des intérêts
+4. **Comparez** avec les intérêts composés
+
+---
+
+##  Formules
+
+### Intérêts simples
