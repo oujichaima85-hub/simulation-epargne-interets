@@ -20,7 +20,6 @@
 - [✨ Fonctionnalités](#-fonctionnalités)
 - [🎮 Comment utiliser](#-comment-utiliser)
 - [🧮 Formules](#-formules)
-- [📁 Structure](#-structure)
 - [👤 Auteur](#-auteur)
 
 ---
@@ -57,6 +56,30 @@
 
 ---
 
-## 🧮 Formules
+## 🧮 Formules 
+I = C × r × t
+M = C + I
 
 ### Intérêts simples
+
+**Technologies :**
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) Structure
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) Styles
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) Interactivité
+- ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white) Graphiques
+
+---
+
+## 👤 Auteur
+
+**Ouji Chaima**  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) [on-plainstaffs-hub](https://github.com/on-plainstaffs-hub)
+
+---
+
+<div align="center">
+
+
+![Star](https://img.shields.io/github/stars/on-plainstaffs-hub/simulation-agazine-interact?style=social) ![Fork](https://img.shields.io/github/forks/on-plainstaffs-hub/simulation-agazine-interact?style=social)
+
+</div>
