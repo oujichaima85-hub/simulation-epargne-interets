@@ -15,8 +15,7 @@
 
 ---
 ##  Démo en ligne
-**[Cliquez ici pour utiliser le simulateur](https://[oujichaima].github.io/simulation-epargne-interets
-]/)**
+**[Cliquez ici pour utiliser le simulateur] (https://[oujichaima].github.io/simulation-epargne-interets]/)**
 
 ##  Description
 Application web interactive pour calculer et visualiser les intérêts simples d'un placement financier.
