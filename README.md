@@ -10,7 +10,7 @@
 
 **Application web interactive pour simuler l'évolution d'un compte d'épargne**
 
-[ Visiter le site](https://on-plainstaffs-hub.github.io/simulation-agazine-interact/) •
+
 
 </div>
 
